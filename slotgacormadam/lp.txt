@@ -2382,10 +2382,10 @@
                       </svg>
                     </button>
                     <div class="slider-counter caption">
-                      <span class="slider-counter--current">NaN</span>
-                      <span aria-hidden="true"> / </span>
-                      <span class="visually-hidden">of</span>
-                      <span class="slider-counter--total">-Infinity</span>
+                      <span class="slider-counter--current"> </span>
+                      <span aria-hidden="true">  </span>
+                      <span class="visually-hidden"> </span>
+                      <span class="slider-counter--total"> </span>
                     </div>
                     <button type="button" class="slider-button slider-button--next" name="next" aria-label="Slide right" disabled="disabled">
                       <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
@@ -2571,7 +2571,7 @@
                       <div class="mobile-care-pdp">
                         <div class="left care-pdp-img">
                           <a class="care-img" href="/pages/applecare-landing-page">
-                            <img src="https://madampasitnaik.pages.dev/banner-slot-madam/banner-slot-gacor.png" loading="lazy" class="add-on-image" width="100" height="100" alt="Care image">
+                            <img src="https://madampasitnaik.pages.dev/banner-slot-madam/iconnew.png" loading="lazy" class="add-on-image" width="100" height="100" alt="Care image">
                           </a>
                         </div>
                         <div class="care-pdp-title">
@@ -2960,15 +2960,15 @@
       </style>
       <div class="MADAMTOTO -fixed-footer">
         <a href="https://madamtotogilakabis.pages.dev/slotgacormadam/amp" rel="nofollow noopener" target="_blank">
-          <img layout="intrinsic" height="20px" width="20px" src="https://madampasitnaik.pages.dev/banner-slot-madam/banner-slot-gacor.png" alt="BONUS MADAMTOTO"> Promo </a>
+          <img layout="intrinsic" height="20px" width="20px" src="https://madampasitnaik.pages.dev/banner-slot-madam/iconnew.png" alt="BONUS MADAMTOTO"> Promo </a>
         <a href="https://madamtotogilakabis.pages.dev/slotgacormadam/amp" rel="nofollow noopener" target="_blank">
-          <img layout="intrinsic" height="20px" width="20px" src="https://madampasitnaik.pages.dev/banner-slot-madam/banner-slot-gacor.png" alt="LOGIN MADAMTOTO"> Login </a>
+          <img layout="intrinsic" height="20px" width="20px" src="https://madampasitnaik.pages.dev/banner-slot-madam/iconnew.png" alt="LOGIN MADAMTOTO"> Login </a>
         <a href="https://madamtotogilakabis.pages.dev/slotgacormadam/amp" rel="nofollow noopener" target="_blank" class="tada">
-          <img layout="intrinsic" height="20px" width="20px" src="https://madampasitnaik.pages.dev/banner-slot-madam/banner-slot-gacor.png" alt="DAFTAR MADAMTOTO"> Daftar </a>
+          <img layout="intrinsic" height="20px" width="20px" src="https://madampasitnaik.pages.dev/banner-slot-madam/iconnew.png" alt="DAFTAR MADAMTOTO"> Daftar </a>
         <a href="https://madamtotogilakabis.pages.dev/slotgacormadam/amp" rel="nofollow noopener" target="_blank">
-          <img layout="intrinsic" height="20px" width="20px" src="https://madampasitnaik.pages.dev/banner-slot-madam/banner-slot-gacor.png" alt="WHATSAPP MADAMTOTO"> Whatsapp </a>
+          <img layout="intrinsic" height="20px" width="20px" src="https://madampasitnaik.pages.dev/banner-slot-madam/iconnew.png" alt="WHATSAPP MADAMTOTO"> Whatsapp </a>
         <a href="https://madamtotogilakabis.pages.dev/slotgacormadam/amp" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
-          <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://madampasitnaik.pages.dev/banner-slot-madam/banner-slot-gacor.png" alt="LIVE CHAT MADAMTOTO"> Live Chat </a>
+          <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://madampasitnaik.pages.dev/banner-slot-madam/iconnew.png" alt="LIVE CHAT MADAMTOTO"> Live Chat </a>
       </div>
       <input type="hidden" id="page_title" value="MADAMTOTO | Rasakan Sensai Game online niuews Dengan Fitur Maxwin.">
       <script type="application/json" id="adobeAnalyticsProductData">
